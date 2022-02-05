@@ -1,0 +1,49 @@
+*{
+  background-color: lightcyan;
+}
+.first_box{
+  background-color: violet;
+  height: 200px;
+  width: 200px;
+  /* border-radius: 2px; */
+  border-width: 5px;
+  border-style: solid;
+  /* position: relative;
+  left: 630px; */
+  /* position: absolute; */
+  text-align: center;
+}
+body{
+  margin: 0px;
+}
+
+.second_box{
+  background-color: yellow;
+  height: 200px;
+  width: 200px;
+  border-width: 5px;
+  border-style: solid;
+  /* position: relative;
+  left: 200px;
+  bottom: 210px; */
+  position: absolute;
+  left: 210px;
+  /* right: 200px; */
+  text-align: center;
+}
+
+
+.third_box{
+  background-color: red;
+  height: 200px;
+  width: 200px;
+  border-width: 5px;
+  border-style: solid;
+  /* position: relative;
+  left: 415px;
+  bottom: 420px; */
+  position: absolute;
+  top:  420px;
+  left: 420px;
+  text-align: center;
+}
